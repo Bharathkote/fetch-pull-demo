@@ -1,0 +1,2 @@
+The goal of this unit is to give you all the essential Git tools you need for daily use.  
+We start off talking about version control software, what it is, why it matters, and the history of Git.  
