@@ -1,3 +1,6 @@
 Hello World
 Hello python
 Hello Java
+
+Programming is Fun
+Coding is best
